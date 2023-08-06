@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borasimsek&label=Profile%20views&color=0e75b6&style=flat" alt="borasimsek" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, Matlab**
+- 🌱 I’m currently learning **Java, Python, Matlab, C#**
 
 - 💬 Ask me about **Machine Learning, Data Science**
 
