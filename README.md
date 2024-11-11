@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.cf06f1da08a953d459a097109cab19ef?rik=SnHQyAgBePtgGQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bora Simsek</h1>
-<h3 align="center">A passionate computer science minor student from Turkey. I study Mechanical engineering as major.</h3>
+<h3 align="center">A passionate computer science minor student from Turkey. Graduate **Mechanical Engineer** </h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.49b6457037b8ea4f771bc7aa3135fb8f?rik=SAaaJMU0G5ML7A&riu=http%3a%2f%2fi.makeagif.com%2fmedia%2f8-26-2015%2fY35RpP.gif&ehk=vEJEWNo%2fV2GmPaw7q%2ffyeyPcF4CZkfXWSs7MGE0PXqA%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borasimsek&label=Profile%20views&color=0e75b6&style=flat" alt="borasimsek" /> </p>
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **bora.simsek@ozu.edu.tr**
+- **borasimsek231@gmail.com**
+-                 
 
 <h3 align="left">Connect with me:</h3>
 
